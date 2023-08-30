@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Weed",
+      "image": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/05/GettyImages-1081197936_header-1024x575-1.jpg?w=1155&h=1207",
+      "price": "99.99",
+      "id": 8
     }
   ]
 }
